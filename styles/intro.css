@@ -41,7 +41,7 @@
 
   #techs {
     justify-content: center;
-    
+
     img {
       width: 20px;
       height: 19px;
@@ -65,5 +65,13 @@
 
   gap: 8px;
 
-  padding-inline: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+#nav {
+  display: grid;
+  justify-content: center;
+
+  margin-block: 99.5px 60.5px;
 }
