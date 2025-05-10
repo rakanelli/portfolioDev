@@ -1,0 +1,59 @@
+#portfolio {
+  header {
+    text-align: center;
+    margin-bottom: 56px;
+    padding-top: 72px;
+  }
+
+  header p {
+    font: var(--subtitle);
+    color: var(--red);
+    margin-bottom: 8px;
+  }
+
+  header h2 {
+    font: var(--title-md);
+    color: var(--gray-600);
+  }
+}
+
+#projects {
+  justify-content: center;
+  margin-bottom: 144px;
+
+  img {
+    width: 306px;
+    height: 156px;
+
+    border-radius: 8px;
+    margin-inline: 12px;
+    margin-block: 12px 20px;
+  }
+
+  h2 {
+    font: var(--title-sm);
+    color: var(--gray-600);
+    margin-bottom: 8px;
+  }
+
+  p {
+    font: var(--text-sm);
+    color: var(--gray-500);
+  }
+
+  h2, p {
+    margin-inline: 12px;
+  }
+}
+
+.project-card {
+  background-color: var(--gray-300);
+  border-radius: 12px;
+
+  width: 330px;
+  height: 280px;
+}
+
+.project-card:hover {
+  border: 1px solid var(--gray-400);
+}

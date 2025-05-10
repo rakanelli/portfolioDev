@@ -1,5 +1,6 @@
 /* Utility Code */
 
+/* GRID */
 .grid {
   display: grid;
 }
@@ -8,10 +9,21 @@
   grid-auto-flow: column;
 }
 
+.grid-cols-2 {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+/* GAP */
+
 .gap-16 {
   gap: 16px;
 }
 
+.gap-24 {
+  gap: 24px;
+}
+
+/* TECH CARDS WIDTH */
 .width-114 {
   width: 114px;
 }
