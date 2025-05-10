@@ -1,0 +1,69 @@
+#introduction {
+  background: url(../assets/index/Background_Intro.png) no-repeat center center/cover;
+
+  padding-top: 120px;
+
+  #user {
+    display: grid;
+    justify-content: center;
+
+    margin-bottom: 56px;
+  }
+
+  #about {
+    text-align: center;
+
+    p:nth-child(1) {
+      font: var(--subtitle);
+      color: var(--gray-500);
+
+      margin-bottom: 8px;
+
+      span {
+        color: var(--red);
+      }
+    }
+
+    h1 {
+      font: var(--title-lg);
+      color: var(--gray-600);
+
+      margin-bottom: 20px;
+    }
+
+    p:nth-child(3){
+      font: var(--text-sm);
+      color: var(--gray-400);
+
+      margin-bottom: 80px;
+    }
+  }
+
+  #techs {
+    justify-content: center;
+    
+    img {
+      width: 20px;
+      height: 19px;
+    }
+
+    p {
+      font: var(--text-md);
+      color: var(--gray-500);
+    }
+  }
+}
+
+.tech-card {
+  width: 114px;
+  height: 40px;
+
+  background-color: var(--gray-300);
+  border-radius: 999px;
+
+  align-items: center;
+
+  gap: 8px;
+
+  padding-inline: 16px;
+}
