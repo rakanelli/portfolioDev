@@ -47,3 +47,13 @@
 .width-119 {
   width: 119;
 }
+
+/* SERVICES IMG PAD-BLOCK */
+
+.block-sm {
+  padding-block: 7.5px;
+}
+
+.block-md {
+  padding-block: 13.5px;
+}
