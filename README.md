@@ -14,4 +14,4 @@ ___
 * Figma
 * Notion  
 
-#### 🔎 Você pode conferir o resultado clicando [aqui]() ou ver o projeto no [Figma](https://www.figma.com/community/file/1387080701963671866) feito por [Millena Martins](https://www.linkedin.com/in/millenamartins/).  
+#### 🔎 Você pode conferir o resultado clicando [aqui](https://rakanelli.github.io/portfolioDev/) ou ver o projeto no [Figma](https://www.figma.com/community/file/1387080701963671866) feito por [Millena Martins](https://www.linkedin.com/in/millenamartins/).  
